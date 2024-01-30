@@ -6,8 +6,8 @@ export interface simpleBlogCard {
 }
 
 export interface fullBlog {
-  currentSlug: string; 
-  title: string; 
-  content: string; 
+  currentSlug: string;
+  title: string;
+  content: any;
   titleImage: string;
 }
