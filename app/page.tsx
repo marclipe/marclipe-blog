@@ -23,7 +23,7 @@ export default async function Home() {
   const data: simpleBlogCard[] = await getData();
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 mt-5 gap-5">
+    <div className="grid grid-cols-1 md:grid-cols-2 mt-5 gap-5 mb-8">
       {data.map((post, idx) => (      
         <Card key={idx}>
           <Image 
