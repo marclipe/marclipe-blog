@@ -7,6 +7,8 @@ Blog with topics about technology.
 ![Logo](https://github.com/marclipe/marclipe-blog/blob/main/readme-images/logo-marcblog.png?raw=true)
 
 
+Deploy on Vercel [MarcBlog](https://marclipe-blog.vercel.app/)
+
 ## Tech Stack
 
 Next.js, Typescript, TailwindCSS, Sanity.io, Shadcn/Ui. 
