@@ -19,9 +19,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <Head>
-        <link rel="icon" href="/blog_icon.svg" />
-      </Head>
       <body className={inter.className}>
         <ThemeProvider
           attribute="class"
